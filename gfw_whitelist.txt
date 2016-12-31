@@ -35,6 +35,7 @@
 ||taobao.com
 ||tianya.cn
 ||tmall.com
+||tuicool.com
 
 # V
 ||v2ex.com
