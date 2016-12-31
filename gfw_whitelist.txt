@@ -16,6 +16,7 @@
 
 # C
 ||csdn.net
+||coolapk.com
 
 # H
 ||hao123.com
@@ -26,13 +27,18 @@
 
 # L
 ||letitfly.me
+||lbesec.com
 
 # J
 ||jd.com
 
 # Q
 ||qq.com
+||qiniu.com
 
+# R
+||rkidc.net
+||rkecloud.com
 # S
 ||sina.com
 ||sina.com.cn
@@ -44,6 +50,10 @@
 ||tianya.cn
 ||tmall.com
 ||tuicool.com
+||tudou.com
+
+# U
+||upyun.com
 
 # V
 ||v2ex.com
