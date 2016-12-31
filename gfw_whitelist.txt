@@ -1,71 +1,115 @@
+! Regex
 /.+edu.cn/
+/.+gov.cn/
 
 ! 1
+||114la.com
 ||115.com
+||126.com
 ||163.com
 ||1688.com
+||17ce.com
 
 ! 3
 ||360.com
 ||360.cn
 ||360doc.com
+||360buy.com
+||36kr.com
+
+! 4
+||4399.com
 
 ! 5
 ||51.la
 ||51cto.com
+||56.com
+||58.com
+||51job.com
+
+! 9
+||91.com
 
 ! A
+||acfun.tv
+||aizhan.com
 ||alibaba.com
+||alimama.com
 ||alipay.com
 ||aliyun.com
-||acfun.tv
 ||amazon.cn
+||anzhi.com
 
 ! B
 ||baidu.com
+||bdimg.com
+||bing.com
 ||bilibili.com
 ||blackyau.cc
-||bing.com
 
 ! C
 ||csdn.net
 ||coolapk.com
 ||cloudxns.net
 ||chuangzaoshi.com
+||china.com
+||chinaz.com
+||chinassl.net
+||cnzz.com
+||cnblogs.com
 
 ! D
 ||douban.com
+||dianping.com
+||duowan.com
+||douyu.com
 
 ! E
 
 ! F
+||fir.im
 
 ! G
 ||guokr.com
 ||gank.io
+||ganji.com
+||golaravel.com
 
 ! H
 ||hao123.com
 ||huaban.com
+||huanqiu.com
+||hacpai.com
 
 ! I
 ||iqiyi.com
 ||ifeng.com
 ||feng.com
+||ifanr.com
+||ifengimg.com
+||imooc.com
 
 ! J
 ||jd.com
 ||jianshu.com
+||jisuanke.com
+||jikexueyuan.com
 
 ! K
+||ku6.com
 
 ! L
 ||letitfly.me
 ||lbesec.com
 ||le.com
+||lofter.com
+||laravel-china.org
 
 ! M
 ||mi.com
+||meituan.com
+||mumayi.com
+||meizu.com
 
 ! N
 ||neofelhz.space
@@ -73,29 +117,52 @@
 
 ! O
 ||oschina.net
+||oneplus.cn
 
 ! P
 ||panda.tv
+||pengyou.com
+||paipai.com
+||pptv.com
+||phpcomposer.com
+||psnine.com
 
 ! Q
 ||qq.com
 ||qiniu.com
 ||qcloud.com
 ||qiniu.com
+||qnssl.com
+||qlogo.cn
 
 ! R
 ||rkidc.net
 ||rkecloud.com
+||renren.com
+||runoob.com
+||ruanyifeng.com
 
 ! S
+||sdo.com
+||shimo.im
+||shiyanlou.com
+||sina.cn
 ||sina.com
+||sinajs.cn
+||sinaimg.cn
 ||sina.com.cn
+||sm.ms
+||smzdm.com
+||smartisan.com
 ||sogou.com
+||so.com
+||soku.com
 ||sohu.com
 ||soso.com
-||so.com
+||soufun.com
+||sspai.com
+||steamcn.com
 ||steampowered.com
-||sinaimg.cn
 
 ! T
 ||taobao.com
@@ -104,10 +171,13 @@
 ||tuicool.com
 ||tudou.com
 ||toutiao.com
+||tencent.com
+||tool.lu
 
 ! U
 ||upyun.com
 ||umeng.com
+||uisdc.com
 
 ! V
 ||v2ex.com
@@ -116,11 +186,17 @@
 ! W
 ||weibo.com
 ||w3school.com.cn
+||wandoujia.com
+||wht.im
 
 ! X
 ||xunlei.com
 ||xitu.io
 ||xiami.com
+||xujc.com
+||xiachufang.com
+||xinhuanet.com
+||xuetangx.com
 
 ! Y
 ||youku.com
