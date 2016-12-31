@@ -1,69 +1,133 @@
-# 1
+/.+edu.cn/
+
+! 1
+||115.com
 ||163.com
+||1688.com
 
-# 3
+! 3
+||360.com
 ||360.cn
+||360doc.com
 
-# A
+! 5
+||51.la
+||51cto.com
+
+! A
 ||alibaba.com
 ||alipay.com
 ||aliyun.com
+||acfun.tv
+||amazon.cn
 
-# B
+! B
 ||baidu.com
 ||bilibili.com
 ||blackyau.cc
+||bing.com
 
-# C
+! C
 ||csdn.net
 ||coolapk.com
+||cloudxns.net
+||chuangzaoshi.com
 
-# H
+! D
+||douban.com
+
+! E
+
+! F
+
+! G
+||guokr.com
+||gank.io
+
+! H
 ||hao123.com
+||huaban.com
 
-# N
+! I
+||iqiyi.com
+||ifeng.com
+||feng.com
+
+! J
+||jd.com
+||jianshu.com
+
+! K
+
+! L
+||letitfly.me
+||lbesec.com
+||le.com
+
+! M
+||mi.com
+
+! N
 ||neofelhz.space
 ||neofelhz.ga
 
-# L
-||letitfly.me
-||lbesec.com
+! O
+||oschina.net
 
-# J
-||jd.com
+! P
+||panda.tv
 
-# Q
+! Q
 ||qq.com
 ||qiniu.com
+||qcloud.com
+||qiniu.com
 
-# R
+! R
 ||rkidc.net
 ||rkecloud.com
-# S
+
+! S
 ||sina.com
 ||sina.com.cn
 ||sogou.com
 ||sohu.com
+||soso.com
+||so.com
+||steampowered.com
+||sinaimg.cn
 
-# T
+! T
 ||taobao.com
 ||tianya.cn
 ||tmall.com
 ||tuicool.com
 ||tudou.com
+||toutiao.com
 
-# U
+! U
 ||upyun.com
+||umeng.com
 
-# V
+! V
 ||v2ex.com
 ||viosey.com
 
-# W
+! W
 ||weibo.com
+||w3school.com.cn
 
-# Y
+! X
+||xunlei.com
+||xitu.io
+||xiami.com
+
+! Y
 ||youku.com
+||yesky.com
+||youdao.com
 
-# Z
+! Z
 ||zhihu.com
+||zol.com.cn
+||zhaopin.com
