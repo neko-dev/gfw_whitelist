@@ -9,8 +9,10 @@
 ||163.com
 ||1688.com
 ||17ce.com
+||17k.com
 
 ! 3
+||3366.com
 ||360.com
 ||360.cn
 ||360doc.com
@@ -23,9 +25,16 @@
 ! 5
 ||51.la
 ||51cto.com
+||51job.com
+||52pojie.cn
 ||56.com
 ||58.com
-||51job.com
+
+! 6
+||6.cn
+
+! 7
+||7k7k.com
 
 ! 9
 ||91.com
@@ -39,6 +48,8 @@
 ||aliyun.com
 ||amazon.cn
 ||anzhi.com
+||anjuke.com
+||autohome.com.cn
 
 ! B
 ||baidu.com
@@ -46,8 +57,10 @@
 ||bing.com
 ||bilibili.com
 ||blackyau.cc
+||bybbs.org
 
 ! C
+||ce.cn
 ||csdn.net
 ||coolapk.com
 ||cloudxns.net
@@ -55,18 +68,23 @@
 ||china.com
 ||chinaz.com
 ||chinassl.net
+||cnr.cn
 ||cnzz.com
 ||cnblogs.com
+||ctrip.com
 
 ! D
-||douban.com
 ||dianping.com
-||duowan.com
+||douban.com
+||dou-bi.co
 ||douyu.com
+||duowan.com
 
 ! E
+||eastmoney.com
 
 ! F
+||fang.com
 ||fir.im
 
 ! G
@@ -74,6 +92,7 @@
 ||gank.io
 ||ganji.com
 ||golaravel.com
+||gmw.cn
 
 ! H
 ||hao123.com
@@ -131,11 +150,13 @@
 ||qq.com
 ||qiniu.com
 ||qcloud.com
+||qidian.com
 ||qiniu.com
 ||qnssl.com
 ||qlogo.cn
 
 ! R
+||right.com.cn
 ||rkidc.net
 ||rkecloud.com
 ||renren.com
@@ -163,6 +184,7 @@
 ||sspai.com
 ||steamcn.com
 ||steampowered.com
+||suning.com
 
 ! T
 ||taobao.com
@@ -170,16 +192,19 @@
 ||tmall.com
 ||tuicool.com
 ||tudou.com
+||tuniu.com
 ||toutiao.com
 ||tencent.com
 ||tool.lu
 
 ! U
+||u9u9.com
 ||upyun.com
 ||umeng.com
 ||uisdc.com
 
 ! V
+||vip.com
 ||v2ex.com
 ||viosey.com
 
@@ -190,6 +215,7 @@
 ||wht.im
 
 ! X
+||xcar.com.cn
 ||xunlei.com
 ||xitu.io
 ||xiami.com
@@ -197,11 +223,16 @@
 ||xiachufang.com
 ||xinhuanet.com
 ||xuetangx.com
+||xs8.cn
+||xxsy.net
 
 ! Y
+||yaohuo.me
 ||youku.com
 ||yesky.com
 ||youdao.com
+||youth.cn
+||yiche.com
 
 ! Z
 ||zhihu.com
