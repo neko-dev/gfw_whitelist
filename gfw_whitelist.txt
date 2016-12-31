@@ -1,23 +1,50 @@
+# 1
+||163.com
+
+# 3
+||360.cn
+
+# A
+||alibaba.com
+||alipay.com
+||aliyun.com
+
+# B
 ||baidu.com
 ||bilibili.com
+
+# C
+||csdn.net
+
+# H
+||hao123.com
+
+# J
+||jd.com
+
+# Q
+||qq.com
+
+# S
+||sina.com
+||sina.com.cn
+||sogou.com
+||sohu.com
+
+# T
+||taobao.com
+||tianya.cn
+||tmall.com
+
+# V
 ||v2ex.com
 ||viosey.com
-||taobao.com
-||qq.com
-||sohu.com
-||sina.com
-||hao123.com
-||sina.com.cn
-||tmall.com
-||360.cn
+
+# W
 ||weibo.com
-||tianya.cn
-||jd.com
-||zhihu.com
-||csdn.net
-||alipay.com
-||sogou.com
+
+# Y
 ||youku.com
-||163.com
-||alibaba.com
-||aliyun.com
+
+# Z
+||zhihu.com
