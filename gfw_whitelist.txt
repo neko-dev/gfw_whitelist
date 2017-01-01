@@ -102,10 +102,11 @@
 ||cntv.cn
 ||cnzz.com
 ||cnzz.net
-||coding.net
-||coding.me
 ||coding.io
+||coding.me
+||coding.net
 ||coolapk.com
+||csdnimg.cn
 ||csdn.net
 ||ctrip.com
 
@@ -315,11 +316,13 @@
 ||youdao.com
 ||youku.com
 ||youth.cn
+||yunshipei.com
 ||yy.com
 
 ! Z
 ||zcool.com.cn
 ||zhaopin.com
 ||zhihu.com
+||zhimg.com
 ||zimuzu.tv
 ||zol.com.cn
