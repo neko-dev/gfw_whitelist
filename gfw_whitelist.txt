@@ -3,13 +3,17 @@
 /.+gov.cn/
 
 ! 1
+||10010.com
+||10086.cn
 ||114la.com
 ||115.com
 ||126.com
 ||163.com
 ||1688.com
+||17173.com
 ||17ce.com
 ||17k.com
+||189.cn
 
 ! 3
 ||3366.com
@@ -18,6 +22,7 @@
 ||360doc.com
 ||360buy.com
 ||36kr.com
+||3dmgame.com
 
 ! 4
 ||4399.com
@@ -29,6 +34,7 @@
 ||52pojie.cn
 ||56.com
 ||58.com
+||58pic.com
 
 ! 6
 ||6.cn
@@ -50,14 +56,19 @@
 ||anzhi.com
 ||anjuke.com
 ||autohome.com.cn
+||appgame.com
+||aicheren.com
 
 ! B
 ||baidu.com
+||baidupcs.com
 ||bdimg.com
 ||bing.com
 ||bilibili.com
 ||blackyau.cc
+||boc.cn
 ||bybbs.org
+||battlenet.com.cn
 
 ! C
 ||ce.cn
@@ -68,54 +79,73 @@
 ||china.com
 ||chinaz.com
 ||chinassl.net
+||chiphell.com
 ||cnr.cn
-||cnzz.com
+||cnbeta.com
 ||cnblogs.com
+||cntv.cn
+||cnzz.com
 ||ctrip.com
+||cdog.me
 
 ! D
 ||dianping.com
+||docin.com
 ||douban.com
 ||dou-bi.co
 ||douyu.com
 ||duowan.com
+||duoshuo.com
 
 ! E
 ||eastmoney.com
+||eqoe.cn
 
 ! F
 ||fang.com
+||feng.com
 ||fir.im
+||fengniao.com
 
 ! G
+||gamersky.com
 ||guokr.com
 ||gank.io
 ||ganji.com
 ||golaravel.com
 ||gmw.cn
+||gfan.com
 
 ! H
 ||hao123.com
 ||huaban.com
 ||huanqiu.com
 ||hacpai.com
+||h-ui.net
 
 ! I
 ||iqiyi.com
 ||ifeng.com
-||feng.com
 ||ifanr.com
 ||ifengimg.com
 ||imooc.com
+||iapps.im
+||ithome.com
 
 ! J
+||jandan.net
+||jb51.net
 ||jd.com
+||jiathis.com
 ||jianshu.com
 ||jisuanke.com
 ||jikexueyuan.com
 
 ! K
+||kancloud.cn
+||kafan.cn
 ||ku6.com
+||kuaizhan.com
 
 ! L
 ||letitfly.me
@@ -129,10 +159,12 @@
 ||meituan.com
 ||mumayi.com
 ||meizu.com
+||miui.com
 
 ! N
 ||neofelhz.space
 ||neofelhz.ga
+||nuomi.com
 
 ! O
 ||oschina.net
@@ -185,6 +217,7 @@
 ||steamcn.com
 ||steampowered.com
 ||suning.com
+||sznews.com
 
 ! T
 ||taobao.com
@@ -196,6 +229,8 @@
 ||toutiao.com
 ||tencent.com
 ||tool.lu
+||thinkphp.cn
+||tower.im
 
 ! U
 ||u9u9.com
@@ -207,6 +242,8 @@
 ||vip.com
 ||v2ex.com
 ||viosey.com
+||vss.im
+||vmall.com
 
 ! W
 ||weibo.com
@@ -225,6 +262,7 @@
 ||xuetangx.com
 ||xs8.cn
 ||xxsy.net
+||xclient.info
 
 ! Y
 ||yaohuo.me
@@ -235,6 +273,8 @@
 ||yiche.com
 
 ! Z
+||zcool.com.cn
 ||zhihu.com
 ||zol.com.cn
 ||zhaopin.com
+||zimuzu.tv
