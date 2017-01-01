@@ -31,9 +31,9 @@
 ||4399.com
 
 ! 5
-||51.la
 ||51cto.com
 ||51job.com
+||51.la
 ||52pojie.cn
 ||56.com
 ||58.com
@@ -102,6 +102,7 @@
 ||cntv.cn
 ||cnzz.com
 ||cnzz.net
+||coding.net
 ||coolapk.com
 ||csdn.net
 ||ctrip.com
