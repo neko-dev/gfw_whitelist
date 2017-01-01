@@ -1,3 +1,3 @@
 git stage gfw_whitelist.txt
-git commit  -m "$(echo $(date --rfc-2822 -u) UTC)"
+git commit -a -m "$(echo $(date --rfc-2822)|sed -n -e 's/\+0800/CST/p')"
 git push
