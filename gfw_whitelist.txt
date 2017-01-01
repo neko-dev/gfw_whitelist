@@ -2,6 +2,9 @@
 /.+edu.cn/
 /.+gov.cn/
 
+! Subdomain
+|https://ipv6.google.com
+
 ! 1
 ||10010.com
 ||10086.cn
@@ -17,9 +20,9 @@
 
 ! 3
 ||3366.com
-||360buy.com
 ||360.cn
 ||360.com
+||360buy.com
 ||360doc.com
 ||36kr.com
 ||3dmgame.com
@@ -28,9 +31,9 @@
 ||4399.com
 
 ! 5
+||51.la
 ||51cto.com
 ||51job.com
-||51.la
 ||52pojie.cn
 ||56.com
 ||58.com
@@ -47,16 +50,25 @@
 
 ! A
 ||acfun.tv
+||acg.tv
+||acgvideo.com
+||aday01.com
+||adf.ly
 ||aicheren.com
+||aixifan.com
 ||aizhan.com
 ||alibaba.com
+||alicdn.com
 ||alimama.com
 ||alipay.com
+||alipayobjects.com
 ||aliyun.com
+||amap.com
 ||amazon.cn
 ||anjuke.com
 ||anzhi.com
 ||appgame.com
+||atomicstryker.net
 ||autohome.com.cn
 
 ! B
@@ -64,13 +76,18 @@
 ||baidupcs.com
 ||battlenet.com.cn
 ||bdimg.com
+||bdstatic.com
 ||bilibili.com
 ||bing.com
 ||blackyau.cc
 ||boc.cn
+||bqtalk.com
+||buu.edu.cn
 ||bybbs.org
 
 ! C
+||cdndm.com
+||cdndm5.com
 ||cdog.me
 ||ce.cn
 ||china.com
@@ -84,12 +101,14 @@
 ||cnr.cn
 ||cntv.cn
 ||cnzz.com
+||cnzz.net
 ||coolapk.com
 ||csdn.net
 ||ctrip.com
 
 ! D
 ||dianping.com
+||dm5.com
 ||docin.com
 ||douban.com
 ||douyu.com
@@ -118,6 +137,8 @@
 ! H
 ||hacpai.com
 ||hao123.com
+||hdslb.com
+||hdslb.net
 ||huaban.com
 ||huanqiu.com
 ||h-ui.net
@@ -125,8 +146,11 @@
 ! I
 ||iapps.im
 ||ifanr.com
+||ifdream.net
 ||ifeng.com
 ||ifengimg.com
+||iknoworld.net
+||im9.com
 ||imooc.com
 ||iqiyi.com
 ||ithome.com
@@ -150,23 +174,31 @@
 ||laravel-china.org
 ||lbesec.com
 ||le.com
+||lenovo.com.cn
 ||letitfly.me
 ||lofter.com
 
 ! M
+||masadora.net
+||mcbbs.net
+||mediav.com
 ||meituan.com
 ||meizu.com
 ||mi.com
 ||miui.com
+||moe123.net
 ||mumayi.com
 
 ! N
+||nekonazo.com
 ||neofelhz.ga
 ||neofelhz.space
 ||nuomi.com
 
 ! O
+||oekaki.so
 ||oneplus.cn
+||oray.com
 ||oschina.net
 
 ! P
@@ -179,9 +211,10 @@
 
 ! Q
 ||qcloud.com
+||qeeyou.com
 ||qidian.com
 ||qiniu.com
-||qiniu.com
+||qiniucdn.com
 ||qlogo.cn
 ||qnssl.com
 ||qq.com
@@ -203,8 +236,8 @@
 ||sina.com.cn
 ||sinaimg.cn
 ||sinajs.cn
-||smartisan.com
 ||sm.ms
+||smartisan.com
 ||smzdm.com
 ||so.com
 ||sogou.com
@@ -212,6 +245,7 @@
 ||soku.com
 ||soso.com
 ||soufun.com
+||speedtest.net
 ||sspai.com
 ||steamcn.com
 ||steampowered.com
@@ -223,6 +257,7 @@
 ||tencent.com
 ||thinkphp.cn
 ||tianya.cn
+||tietuku.com
 ||tmall.com
 ||tool.lu
 ||toutiao.com
@@ -235,7 +270,9 @@
 ||u9u9.com
 ||uisdc.com
 ||umeng.com
+||upaiyun.com
 ||upyun.com
+||uuu.moe
 
 ! V
 ||v2ex.com
@@ -248,6 +285,7 @@
 ||w3school.com.cn
 ||wandoujia.com
 ||weibo.com
+||weiyun.com
 ||wht.im
 ||wiz.cn
 
@@ -258,6 +296,7 @@
 ||xiami.com
 ||xinhuanet.com
 ||xitu.io
+||xldns.net
 ||xs8.cn
 ||xuetangx.com
 ||xujc.com
@@ -271,6 +310,7 @@
 ||youdao.com
 ||youku.com
 ||youth.cn
+||yy.com
 
 ! Z
 ||zcool.com.cn
