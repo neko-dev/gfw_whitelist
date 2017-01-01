@@ -118,6 +118,7 @@
 
 ! E
 ||eastmoney.com
+||enkj.com
 ||eqoe.cn
 
 ! F
@@ -254,6 +255,7 @@
 ||sznews.com
 
 ! T
+||tanx.com
 ||taobao.com
 ||tencent.com
 ||thinkphp.cn
