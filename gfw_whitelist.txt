@@ -6,6 +6,7 @@
 |https://ipv6.google.com
 
 ! 0
+||005.tv
 
 ! 1
 ||10010.com
@@ -56,6 +57,7 @@
 ||91.com
 
 ! A
+||acfun.cn
 ||acfun.tv
 ||acg.tv
 ||acgvideo.com
@@ -75,12 +77,14 @@
 ||anjuke.com
 ||anzhi.com
 ||appgame.com
+||appinn.com
 ||atomicstryker.net
 ||autohome.com.cn
 
 ! B
 ||baidu.com
 ||baidupcs.com
+||baozoumanhua.com
 ||battlenet.com.cn
 ||bdimg.com
 ||bdstatic.com
@@ -118,8 +122,11 @@
 ||ctrip.com
 
 ! D
+||daocloud.io
+||datagrand.com
 ||dianping.com
 ||dm5.com
+||dnspod.cn
 ||docin.com
 ||douban.com
 ||douyu.com
@@ -136,11 +143,13 @@
 ||feng.com
 ||fengniao.com
 ||fir.im
+||freebuf.com
 
 ! G
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||getui.com
 ||gfan.com
 ||gmw.cn
 ||golaravel.com
@@ -154,16 +163,20 @@
 ||hdslb.net
 ||huaban.com
 ||huanqiu.com
+||hupu.com
+||huxiu.com
 
 ! I
 ||iapps.im
 ||ifanr.com
+||ifanr.in
 ||ifdream.net
 ||ifeng.com
 ||ifengimg.com
 ||iknoworld.net
 ||im9.com
 ||imooc.com
+||iplaysoft.com
 ||iqiyi.com
 ||ithome.com
 
@@ -171,6 +184,7 @@
 ||jandan.net
 ||jb51.net
 ||jd.com
+||jianguoyun.com
 ||jianshu.com
 ||jiathis.com
 ||jikexueyuan.com
@@ -180,15 +194,20 @@
 ||kafan.cn
 ||kancloud.cn
 ||kf5.com
+||knownsec.com
+||krspace.cn
 ||ku6.com
 ||kuaizhan.com
 
 ! L
+||lackar.com
 ||laravel-china.org
 ||lbesec.com
 ||le.com
+||leancloud.cn
 ||lenovo.com.cn
 ||letitfly.me
+||lizhi.io
 ||lofter.com
 
 ! M
@@ -198,7 +217,9 @@
 ||meituan.com
 ||meizu.com
 ||mi.com
+||mindstore.io
 ||miui.com
+||mmtrix.com
 ||moe123.net
 ||mumayi.com
 
@@ -206,6 +227,8 @@
 ||nekonazo.com
 ||neofelhz.ga
 ||neofelhz.space
+||netease.im
+||ngacn.cc
 ||nuomi.com
 
 ! O
@@ -219,15 +242,18 @@
 ||panda.tv
 ||pengyou.com
 ||phpcomposer.com
+||pingwest.com
 ||pptv.com
 ||psnine.com
 
 ! Q
 ||qcloud.com
+||qdan.me
 ||qeeyou.com
 ||qidian.com
 ||qiniu.com
 ||qiniucdn.com
+||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
 ||qq.com
@@ -237,11 +263,15 @@
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
+||rongcloud.cn
 ||ruanyifeng.com
+||ruby-china.org
 ||runoob.com
 
 ! S
 ||sdo.com
+||segmentfault.com
+||sensorsdata.cn
 ||shimo.im
 ||shiyanlou.com
 ||sina.cn
@@ -269,12 +299,14 @@
 ||tanx.com
 ||taobao.com
 ||tencent.com
+||tenpay.com
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
 ||tmall.com
 ||tool.lu
 ||toutiao.com
+||toutiao.io
 ||tower.im
 ||tudou.com
 ||tuicool.com
@@ -325,6 +357,7 @@
 ||youdao.com
 ||youku.com
 ||youth.cn
+||yunpian.com
 ||yunshipei.com
 ||yy.com
 
@@ -334,4 +367,5 @@
 ||zhihu.com
 ||zhimg.com
 ||zimuzu.tv
+||znyj365.com
 ||zol.com.cn
