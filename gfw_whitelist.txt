@@ -178,6 +178,7 @@
 ! K
 ||kafan.cn
 ||kancloud.cn
+||kf5.com
 ||ku6.com
 ||kuaizhan.com
 
