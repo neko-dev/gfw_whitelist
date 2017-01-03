@@ -125,6 +125,7 @@
 ||daocloud.io
 ||datagrand.com
 ||dianping.com
+||dict.cn
 ||dm5.com
 ||dnspod.cn
 ||docin.com
@@ -137,6 +138,7 @@
 ||eastmoney.com
 ||enkj.com
 ||eqoe.cn
+||eudic.net
 
 ! F
 ||fang.com
@@ -168,6 +170,7 @@
 
 ! I
 ||iapps.im
+||iciba.com
 ||ifanr.com
 ||ifanr.in
 ||ifdream.net
@@ -176,6 +179,7 @@
 ||iknoworld.net
 ||im9.com
 ||imooc.com
+||ipip.net
 ||iplaysoft.com
 ||iqiyi.com
 ||ithome.com
@@ -221,6 +225,7 @@
 ||miui.com
 ||mmtrix.com
 ||moe123.net
+||mukewang.com
 ||mumayi.com
 
 ! N
