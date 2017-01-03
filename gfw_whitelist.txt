@@ -222,6 +222,7 @@
 ||meizu.com
 ||mi.com
 ||mindstore.io
+||mingdao.com
 ||miui.com
 ||mmtrix.com
 ||moe123.net
@@ -308,6 +309,7 @@
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
+||tingyun.com
 ||tmall.com
 ||tool.lu
 ||toutiao.com
