@@ -4,6 +4,7 @@
 
 ! Subdomain
 |https://ipv6.google.com
+|https://www.hao123.com
 
 ! 0
 ||005.tv
@@ -23,6 +24,7 @@
 ||189.cn
 
 ! 2
+||2345.com
 
 ! 3
 ||3366.com
@@ -163,6 +165,7 @@
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
+||heweather.com
 ||huaban.com
 ||huanqiu.com
 ||hupu.com
@@ -333,6 +336,7 @@
 ||vip.com
 ||vmall.com
 ||vss.im
+||vuejs.org.cn
 
 ! W
 ||w3school.com.cn
