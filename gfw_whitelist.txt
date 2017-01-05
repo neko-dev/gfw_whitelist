@@ -301,6 +301,7 @@
 ||sspai.com
 ||steamcn.com
 ||steampowered.com
+||steamstatic.com
 ||suning.com
 ||sznews.com
 
