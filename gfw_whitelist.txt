@@ -213,7 +213,6 @@
 ||le.com
 ||leancloud.cn
 ||lenovo.com.cn
-||lenovomobile.cn
 ||letitfly.me
 ||lizhi.io
 ||lofter.com
@@ -221,6 +220,7 @@
 ! M
 ||masadora.net
 ||mcbbs.net
+||mdui.org
 ||mediav.com
 ||meituan.com
 ||meizu.com
@@ -253,7 +253,6 @@
 ||pengyou.com
 ||phpcomposer.com
 ||pingwest.com
-||playubuntu.cn
 ||pptv.com
 ||psnine.com
 
