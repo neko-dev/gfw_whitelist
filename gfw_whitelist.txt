@@ -1,6 +1,7 @@
 ! Regex
 /.+edu.cn/
 /.+gov.cn/
+/183\.60\.187\.110/
 
 ! Subdomain
 |https://ipv6.google.com
@@ -231,6 +232,7 @@
 ||mindstore.io
 ||mingdao.com
 ||miui.com
+||mmstat.com
 ||mmtrix.com
 ||moe123.net
 ||mukewang.com
@@ -314,6 +316,7 @@
 ! T
 ||tanx.com
 ||taobao.com
+||taobaocdn.com
 ||tencent.com
 ||tenpay.com
 ||thinkphp.cn
