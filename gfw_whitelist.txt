@@ -182,6 +182,7 @@
 ||ifengimg.com
 ||iknoworld.net
 ||im9.com
+||imjad.cn
 ||imooc.com
 ||ipip.net
 ||iplaysoft.com
@@ -247,6 +248,7 @@
 ||oekaki.so
 ||oneplus.cn
 ||oray.com
+||oschina.io
 ||oschina.net
 
 ! P
