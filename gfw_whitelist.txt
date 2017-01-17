@@ -106,6 +106,7 @@
 ||ce.cn
 ||china.com
 ||chinassl.net
+||chinaunix.net
 ||chinaz.com
 ||chiphell.com
 ||chuangzaoshi.com
@@ -163,6 +164,7 @@
 
 ! H
 ||h-ui.net
+||h2os.com
 ||hacpai.com
 ||hao123.com
 ||hdslb.com
@@ -218,6 +220,7 @@
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||letitfly.me
+||linuxidc.com
 ||lizhi.io
 ||lofter.com
 
@@ -249,6 +252,8 @@
 ! O
 ||oekaki.so
 ||oneplus.cn
+||oneplusbbs.com
+||open-open.com
 ||oray.com
 ||oschina.io
 ||oschina.net
@@ -308,6 +313,7 @@
 ||speedtest.net
 ||sspai.com
 ||steamcn.com
+||steamcommunity.com
 ||steampowered.com
 ||steamstatic.com
 ||suning.com
@@ -342,6 +348,7 @@
 
 ! V
 ||v2ex.com
+||vhall.com
 ||viosey.com
 ||vip.com
 ||vmall.com
@@ -354,6 +361,7 @@
 ||weibo.com
 ||weiyun.com
 ||wht.im
+||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
 
