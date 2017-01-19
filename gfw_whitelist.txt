@@ -221,6 +221,7 @@
 ||lenovomobile.cn
 ||letitfly.me
 ||linuxidc.com
+||liyin.date
 ||lizhi.io
 ||lofter.com
 
