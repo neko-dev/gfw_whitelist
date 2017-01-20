@@ -96,6 +96,7 @@
 ||bing.com
 ||blackyau.cc
 ||boc.cn
+||bootcss.com
 ||bqtalk.com
 ||buu.edu.cn
 ||bybbs.org
@@ -177,6 +178,7 @@
 ||huxiu.com
 
 ! I
+||i-meto.com
 ||iapps.im
 ||iciba.com
 ||ifanr.com
