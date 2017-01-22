@@ -2,6 +2,7 @@
 /.+\.com\.cn/
 /.+edu.cn/
 /.+gov.cn/
+/183\.60\.187\.110/
 
 ! Subdomain
 |https://ipv6.google.com
@@ -98,6 +99,7 @@
 ||blackyau.cc
 ||blogjava.net
 ||boc.cn
+||bootcss.com
 ||bqtalk.com
 ||buu.edu.cn
 ||bybbs.org
@@ -109,6 +111,7 @@
 ||ce.cn
 ||china.com
 ||chinassl.net
+||chinaunix.net
 ||chinaz.com
 ||chiphell.com
 ||chuangzaoshi.com
@@ -166,6 +169,7 @@
 
 ! H
 ||h-ui.net
+||h2os.com
 ||hacpai.com
 ||hao123.com
 ||hdslb.com
@@ -225,6 +229,8 @@
 ||lenovomobile.cn
 ||letitfly.me
 ||letv.com
+||linuxidc.com
+||liyin.date
 ||lizhi.io
 ||lofter.com
 ||lwl12.com
@@ -241,6 +247,7 @@
 ||mindstore.io
 ||mingdao.com
 ||miui.com
+||mmstat.com
 ||mmtrix.com
 ||moe123.net
 ||mukewang.com
@@ -257,6 +264,8 @@
 ! O
 ||oekaki.so
 ||oneplus.cn
+||oneplusbbs.com
+||open-open.com
 ||oray.com
 ||oschina.io
 ||oschina.net
@@ -317,6 +326,7 @@
 ||speedtest.net
 ||sspai.com
 ||steamcn.com
+||steamcommunity.com
 ||steampowered.com
 ||steamstatic.com
 ||suning.com
@@ -325,6 +335,7 @@
 ! T
 ||tanx.com
 ||taobao.com
+||taobaocdn.com
 ||tencent.com
 ||tenpay.com
 ||thinkphp.cn
@@ -351,6 +362,7 @@
 
 ! V
 ||v2ex.com
+||vhall.com
 ||viosey.com
 ||vip.com
 ||vmall.com
@@ -364,6 +376,7 @@
 ||weidunewtab.com
 ||weiyun.com
 ||wht.im
+||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
 
