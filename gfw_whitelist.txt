@@ -198,10 +198,12 @@
 ||ipip.net
 ||iplaysoft.com
 ||iqiyi.com
+||it168.com
 ||ithome.com
 
 ! J
 ||jandan.net
+||javaeye.com
 ||jb51.net
 ||jd.com
 ||jianguoyun.com
@@ -227,6 +229,7 @@
 ||leancloud.cn
 ||lenovo.com.cn
 ||lenovomobile.cn
+||lenovomobile.com
 ||letitfly.me
 ||letv.com
 ||linuxidc.com
@@ -258,8 +261,10 @@
 ||neofelhz.ga
 ||neofelhz.space
 ||netease.im
+||netseer.com
 ||ngacn.cc
 ||nuomi.com
+||nvidia.cn
 
 ! O
 ||oekaki.so
