@@ -1,4 +1,5 @@
 ! Regex
+/.+\.com\.cn/
 /.+edu.cn/
 /.+gov.cn/
 /183\.60\.187\.110/
@@ -70,6 +71,7 @@
 ||aicheren.com
 ||aixifan.com
 ||aizhan.com
+||akamaihd.net
 ||alibaba.com
 ||alicdn.com
 ||alimama.com
@@ -95,6 +97,7 @@
 ||bilibili.com
 ||bing.com
 ||blackyau.cc
+||blogjava.net
 ||boc.cn
 ||bootcss.com
 ||bqtalk.com
@@ -173,6 +176,7 @@
 ||hdslb.com
 ||hdslb.net
 ||heweather.com
+||hitokoto.cn
 ||huaban.com
 ||huanqiu.com
 ||hupu.com
@@ -191,13 +195,16 @@
 ||im9.com
 ||imjad.cn
 ||imooc.com
+||ip-api.com
 ||ipip.net
 ||iplaysoft.com
 ||iqiyi.com
+||it168.com
 ||ithome.com
 
 ! J
 ||jandan.net
+||javaeye.com
 ||jb51.net
 ||jd.com
 ||jianguoyun.com
@@ -223,11 +230,14 @@
 ||leancloud.cn
 ||lenovo.com.cn
 ||lenovomobile.cn
+||lenovomobile.com
 ||letitfly.me
+||letv.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
 ||lofter.com
+||lwl12.com
 
 ! M
 ||masadora.net
@@ -237,6 +247,7 @@
 ||meituan.com
 ||meizu.com
 ||mi.com
+||miaopai.com
 ||mindstore.io
 ||mingdao.com
 ||miui.com
@@ -251,8 +262,10 @@
 ||neofelhz.ga
 ||neofelhz.space
 ||netease.im
+||netseer.com
 ||ngacn.cc
 ||nuomi.com
+||nvidia.cn
 
 ! O
 ||oekaki.so
@@ -296,6 +309,7 @@
 ||runoob.com
 
 ! S
+||sandai.net
 ||sdo.com
 ||segmentfault.com
 ||sensorsdata.cn
@@ -339,6 +353,7 @@
 ||toutiao.com
 ||toutiao.io
 ||tower.im
+||tplogin.cn
 ||tudou.com
 ||tuicool.com
 ||tuniu.com
@@ -364,6 +379,7 @@
 ||w3school.com.cn
 ||wandoujia.com
 ||weibo.com
+||weidunewtab.com
 ||weiyun.com
 ||wht.im
 ||wisenjoy.com
@@ -375,6 +391,7 @@
 ||xclient.info
 ||xiachufang.com
 ||xiami.com
+||xiaomi.com
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
