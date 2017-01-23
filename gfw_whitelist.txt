@@ -136,6 +136,7 @@
 ||datagrand.com
 ||dianping.com
 ||dict.cn
+||diybeta.com
 ||dm5.com
 ||dnspod.cn
 ||docin.com
@@ -419,3 +420,4 @@
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zuk.cn
