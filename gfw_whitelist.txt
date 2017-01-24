@@ -109,6 +109,7 @@
 ! C
 ||cdndm.com
 ||cdndm5.com
+||cdnst.net
 ||cdog.me
 ||ce.cn
 ||china.com
@@ -139,10 +140,12 @@
 ||datagrand.com
 ||dianping.com
 ||dict.cn
+||diybeta.com
 ||dm5.com
 ||dnspod.cn
 ||docin.com
 ||douban.com
+||doubleclick.net
 ||douyu.com
 ||duguletian.com
 ||duoshuo.com
@@ -382,9 +385,11 @@
 
 ! W
 ||w3school.com.cn
+||waerfa.com
 ||wandoujia.com
 ||weibo.com
 ||weidunewtab.com
+||weiosx.com
 ||weiyun.com
 ||wht.im
 ||wisenjoy.com
@@ -427,3 +432,4 @@
 ||zimuzu.tv
 ||znyj365.com
 ||zol.com.cn
+||zuk.cn
