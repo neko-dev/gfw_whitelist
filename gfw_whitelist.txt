@@ -10,6 +10,7 @@
 
 ! 0
 ||005.tv
+||0o0.ooo
 
 ! 1
 ||10010.com
@@ -90,6 +91,7 @@
 ! B
 ||baidu.com
 ||baidupcs.com
+||baidustatic.com
 ||baozoumanhua.com
 ||battlenet.com.cn
 ||bdimg.com
@@ -129,6 +131,7 @@
 ||coolapk.com
 ||csdn.net
 ||csdnimg.cn
+||css.net
 ||ctrip.com
 
 ! D
@@ -141,6 +144,7 @@
 ||docin.com
 ||douban.com
 ||douyu.com
+||duguletian.com
 ||duoshuo.com
 ||duowan.com
 
@@ -287,6 +291,7 @@
 ||psnine.com
 
 ! Q
+||qbox.me
 ||qcloud.com
 ||qdan.me
 ||qeeyou.com
@@ -400,11 +405,13 @@
 ||xujc.com
 ||xunlei.com
 ||xxsy.net
+||xycdn.com
 
 ! Y
 ||yaohuo.me
 ||yesky.com
 ||yiche.com
+||ylmf.net
 ||youdao.com
 ||youku.com
 ||youth.cn
