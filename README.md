@@ -11,6 +11,10 @@ Install [SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbad
 
 Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoProxy format) and fill the `gfw_whitelist URL`. `Rule list rules` use the `Direct` profile.
 
+![](https://ooo.0o0.ooo/2017/01/24/5886e09252eb6.png)
+
+![](https://ooo.0o0.ooo/2017/01/24/5886e0925da91.png)
+
 ## Usagage of AutoProxy-Editor.jar
 
 `java -jar AutoProxy-Editor.jar` to add domains.
