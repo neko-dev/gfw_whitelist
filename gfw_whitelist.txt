@@ -29,6 +29,7 @@
 
 ! 2
 ||2345.com
+||2cto.com
 
 ! 3
 ||3366.com
@@ -147,6 +148,7 @@
 ||douban.com
 ||doubleclick.net
 ||douyu.com
+||duanwenxue.com
 ||duguletian.com
 ||duoshuo.com
 ||duowan.com
