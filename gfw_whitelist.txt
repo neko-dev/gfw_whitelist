@@ -219,6 +219,7 @@
 ||jd.com
 ||jianguoyun.com
 ||jianshu.com
+||jianshu.io
 ||jiathis.com
 ||jikexueyuan.com
 ||jisuanke.com
