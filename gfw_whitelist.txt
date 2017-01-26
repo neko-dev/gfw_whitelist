@@ -113,6 +113,7 @@
 ||cdnst.net
 ||cdog.me
 ||ce.cn
+||cee.network
 ||china.com
 ||chinassl.net
 ||chinaunix.net
@@ -300,7 +301,9 @@
 ||qcloud.com
 ||qdan.me
 ||qeeyou.com
+||qhmsg.com
 ||qidian.com
+||qihucdn.com
 ||qiniu.com
 ||qiniucdn.com
 ||qiyukf.com
