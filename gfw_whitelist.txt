@@ -1,77 +1,441 @@
 ! Regex
+/.+\.com\.cn/
+/.+edu.cn/
+/.+gov.cn/
+/183\.60\.187\.110/
 
 ! Subdomain
+|https://ipv6.google.com
+|https://www.hao123.com
 
 ! 0
+||005.tv
+||0o0.ooo
 
 ! 1
+||10010.com
+||10086.cn
+||114la.com
+||115.com
+||126.com
+||126.net
+||163.com
+||1688.com
+||17173.com
+||17ce.com
+||17k.com
+||189.cn
+||1tpic.com
 
 ! 2
+||2345.com
+||2cto.com
 
 ! 3
+||3366.com
+||360.cn
+||360.com
+||360buy.com
+||360doc.com
+||36kr.com
+||3dmgame.com
 
 ! 4
+||4399.com
 
 ! 5
+||51.la
+||51cto.com
+||51job.com
+||52pojie.cn
+||56.com
+||58.com
+||58pic.com
 
 ! 6
+||6.cn
 
 ! 7
+||7k7k.com
 
 ! 8
 
 ! 9
+||91.com
 
 ! A
+||acfun.cn
+||acfun.tv
+||acg.tv
+||acgvideo.com
+||aday01.com
+||adf.ly
+||aicheren.com
+||aixifan.com
+||aizhan.com
+||akamaihd.net
+||alibaba.com
+||alicdn.com
+||alimama.com
+||alipay.com
+||alipayobjects.com
+||aliyun.com
+||amap.com
+||amazon.cn
+||anjuke.com
+||anzhi.com
+||appgame.com
+||appinn.com
+||atomicstryker.net
+||autohome.com.cn
 
 ! B
+||baidu.com
+||baidupcs.com
+||baidustatic.com
+||baozoumanhua.com
+||battlenet.com.cn
+||bdimg.com
+||bdstatic.com
+||bilibili.com
+||bing.com
+||blackyau.cc
+||blogjava.net
+||boc.cn
+||bootcss.com
+||bqtalk.com
+||buu.edu.cn
+||bybbs.org
 
 ! C
+||cdndm.com
+||cdndm5.com
+||cdnst.net
+||cdog.me
+||ce.cn
+||cee.network
+||china.com
+||chinassl.net
+||chinaunix.net
+||chinaz.com
+||chiphell.com
+||chuangzaoshi.com
+||cloudxns.net
+||cnbeta.com
+||cnblogs.com
+||cnr.cn
+||cntv.cn
+||cnzz.com
+||cnzz.net
+||coderstory.cn
+||coding.io
+||coding.me
+||coding.net
+||coolapk.com
+||csdn.net
+||csdnimg.cn
+||css.net
+||ctrip.com
 
 ! D
+||daocloud.io
+||datagrand.com
+||dianping.com
+||dict.cn
+||diybeta.com
+||dm5.com
+||dnspod.cn
+||docin.com
+||douban.com
+||doubleclick.net
+||douyu.com
+||duanwenxue.com
 ||duguletian.com
+||duoshuo.com
+||duowan.com
 
 ! E
+||eastmoney.com
+||enkj.com
+||eqoe.cn
+||eudic.net
 
 ! F
+||fang.com
+||feng.com
+||fengniao.com
+||fir.im
+||flow.ci
+||freebuf.com
 
 ! G
+||gamersky.com
+||ganji.com
+||gank.io
+||getui.com
+||gfan.com
+||gmw.cn
+||golaravel.com
+||guokr.com
 
 ! H
+||h-ui.net
+||h2os.com
+||hacpai.com
+||hao123.com
+||hdslb.com
+||hdslb.net
+||heweather.com
+||hitokoto.cn
+||huaban.com
+||huanqiu.com
+||hupu.com
+||huxiu.com
 
 ! I
+||i-meto.com
+||iapps.im
+||iciba.com
+||ifanr.com
+||ifanr.in
+||ifdream.net
+||ifeng.com
+||ifengimg.com
+||iknoworld.net
+||im9.com
+||imjad.cn
+||imooc.com
+||ip-api.com
+||ipip.net
+||iplaysoft.com
+||iqiyi.com
+||it168.com
+||ithome.com
 
 ! J
+||jandan.net
+||javaeye.com
+||jb51.net
+||jd.com
+||jianguoyun.com
+||jianshu.com
+||jianshu.io
+||jiathis.com
+||jikexueyuan.com
+||jisuanke.com
 
 ! K
+||kafan.cn
+||kancloud.cn
+||kf5.com
+||knownsec.com
+||krspace.cn
+||ku6.com
+||kuaizhan.com
 
 ! L
+||lackar.com
+||laravel-china.org
+||lbesec.com
+||le.com
+||leancloud.cn
+||lenovo.com.cn
+||lenovomobile.cn
+||lenovomobile.com
+||letitfly.me
+||letv.com
+||linuxidc.com
+||liyin.date
+||lizhi.io
+||lofter.com
+||lwl12.com
 
 ! M
+||masadora.net
+||mcbbs.net
+||mdui.org
+||mediav.com
+||meituan.com
+||meizu.com
+||mi.com
+||miaopai.com
+||mindstore.io
+||mingdao.com
+||miui.com
+||mmstat.com
+||mmtrix.com
+||moe123.net
+||mukewang.com
+||mumayi.com
 
 ! N
+||nekonazo.com
+||neofelhz.ga
+||neofelhz.space
+||netease.im
+||netseer.com
+||ngacn.cc
+||nuomi.com
+||nvidia.cn
 
 ! O
+||oekaki.so
+||oneplus.cn
+||oneplusbbs.com
+||open-open.com
+||oray.com
+||oschina.io
+||oschina.net
 
 ! P
+||paipai.com
+||panda.tv
+||pengyou.com
+||phpcomposer.com
+||pingwest.com
+||playubuntu.cn
+||pptv.com
+||psnine.com
 
 ! Q
+||qbox.me
+||qcloud.com
+||qdan.me
+||qeeyou.com
+||qhmsg.com
+||qidian.com
+||qihucdn.com
+||qiniu.com
+||qiniucdn.com
+||qiyukf.com
+||qlogo.cn
+||qnssl.com
+||qq.com
 
 ! R
+||renren.com
+||right.com.cn
+||rkecloud.com
+||rkidc.net
+||rongcloud.cn
+||ruanyifeng.com
+||ruby-china.org
+||runoob.com
 
 ! S
+||sandai.net
+||sdo.com
+||segmentfault.com
+||sensorsdata.cn
+||shimo.im
+||shiyanlou.com
+||sina.cn
+||sina.com
+||sina.com.cn
+||sinaimg.cn
+||sinajs.cn
+||sm.ms
+||smartisan.com
+||smzdm.com
+||so.com
+||sogou.com
+||sohu.com
+||soku.com
+||soso.com
+||soufun.com
+||speedtest.net
+||sspai.com
+||steamcn.com
+||steamcommunity.com
+||steampowered.com
+||steamstatic.com
+||suning.com
+||sznews.com
 
 ! T
+||tanx.com
+||taobao.com
+||taobaocdn.com
+||tencent.com
+||tenpay.com
+||thinkphp.cn
+||tianya.cn
+||tietuku.com
+||tingyun.com
+||tmall.com
+||tool.lu
+||toutiao.com
+||toutiao.io
+||tower.im
+||tplogin.cn
+||tudou.com
+||tuicool.com
+||tuniu.com
 
 ! U
-||ustclug.org
+||u9u9.com
+||uisdc.com
+||umeng.com
+||upaiyun.com
+||upyun.com
+||uuu.moe
 
 ! V
+||v2ex.com
+||vhall.com
+||viosey.com
+||vip.com
+||vmall.com
+||vss.im
+||vuejs.org.cn
 
 ! W
+||w3school.com.cn
+||waerfa.com
+||wandoujia.com
+||weibo.com
+||weidunewtab.com
+||weiosx.com
+||weiyun.com
+||wht.im
+||wisenjoy.com
+||wiz.cn
+||wodemo.com
 
 ! X
+||xcar.com.cn
+||xclient.info
+||xiachufang.com
+||xiami.com
+||xiaomi.com
+||xinhuanet.com
+||xitu.io
+||xldns.net
+||xs8.cn
+||xuetangx.com
+||xujc.com
+||xunlei.com
+||xxsy.net
+||xycdn.com
 
 ! Y
+||yaohuo.me
+||yesky.com
+||yiche.com
+||ylmf.net
+||youdao.com
+||youku.com
+||youth.cn
+||yunpian.com
+||yunshipei.com
+||yy.com
 
 ! Z
+||zcool.com.cn
+||zhaopin.com
+||zhihu.com
+||zhimg.com
+||zimuzu.tv
+||znyj365.com
+||zol.com.cn
+||zuk.cn
