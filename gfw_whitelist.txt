@@ -378,6 +378,7 @@
 ||umeng.com
 ||upaiyun.com
 ||upyun.com
+||ustclug.org
 ||uuu.moe
 
 ! V
