@@ -247,6 +247,7 @@
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
+||locvps.com
 ||lofter.com
 ||lwl12.com
 
