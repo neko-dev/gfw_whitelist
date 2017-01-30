@@ -335,6 +335,7 @@
 ||sina.com.cn
 ||sinaimg.cn
 ||sinajs.cn
+||since1989.org
 ||sm.ms
 ||smartisan.com
 ||smzdm.com
