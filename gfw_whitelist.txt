@@ -74,6 +74,7 @@
 ||aixifan.com
 ||aizhan.com
 ||akamaihd.net
+||akarin.top
 ||alibaba.com
 ||alicdn.com
 ||alimama.com
@@ -102,6 +103,7 @@
 ||blackyau.cc
 ||blogjava.net
 ||boc.cn
+||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
 ||buu.edu.cn
@@ -182,6 +184,7 @@
 ||h-ui.net
 ||h2os.com
 ||hacpai.com
+||halyul.cc
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
@@ -253,11 +256,13 @@
 
 ! M
 ||masadora.net
+||maxfox.me
 ||mcbbs.net
 ||mdui.org
 ||mediav.com
 ||meituan.com
 ||meizu.com
+||mengniang.org
 ||mi.com
 ||miaopai.com
 ||mindstore.io
@@ -266,6 +271,7 @@
 ||mmstat.com
 ||mmtrix.com
 ||moe123.net
+||moetransit.com
 ||mukewang.com
 ||mumayi.com
 
@@ -358,6 +364,7 @@
 ||tanx.com
 ||taobao.com
 ||taobaocdn.com
+||tbcdn.cn
 ||tencent.com
 ||tenpay.com
 ||thinkphp.cn
@@ -380,6 +387,7 @@
 ||umeng.com
 ||upaiyun.com
 ||upyun.com
+||ustc.edu.cn
 ||ustclug.org
 ||uuu.moe
 
