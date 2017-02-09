@@ -59,6 +59,7 @@
 ||7k7k.com
 
 ! 8
+||86ps.com
 
 ! 9
 ||91.com
@@ -71,6 +72,7 @@
 ||aday01.com
 ||adf.ly
 ||aicheren.com
+||aipai.com
 ||aixifan.com
 ||aizhan.com
 ||akamaihd.net
@@ -87,6 +89,7 @@
 ||anzhi.com
 ||appgame.com
 ||appinn.com
+||areyoucereal.com
 ||atomicstryker.net
 ||autohome.com.cn
 
@@ -106,6 +109,7 @@
 ||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
+||bt0.com
 ||buu.edu.cn
 ||bybbs.org
 
@@ -122,6 +126,7 @@
 ||chinaz.com
 ||chiphell.com
 ||chuangzaoshi.com
+||cloudinary.com
 ||cloudxns.net
 ||cnbeta.com
 ||cnblogs.com
@@ -142,6 +147,7 @@
 ! D
 ||daocloud.io
 ||datagrand.com
+||ddos.cc
 ||dianping.com
 ||dict.cn
 ||diybeta.com
@@ -179,6 +185,7 @@
 ||gfan.com
 ||gmw.cn
 ||golaravel.com
+||gstatic.com
 ||guokr.com
 
 ! H
@@ -196,10 +203,12 @@
 ||huanqiu.com
 ||hupu.com
 ||huxiu.com
+||hxjyb.com
 
 ! I
 ||i-meto.com
 ||iapps.im
+||ibruce.info
 ||iciba.com
 ||ifanr.com
 ||ifanr.in
@@ -228,11 +237,13 @@
 ||jiathis.com
 ||jikexueyuan.com
 ||jisuanke.com
+||joyyang.com
 
 ! K
 ||kafan.cn
 ||kancloud.cn
 ||kf5.com
+||kmf.com
 ||knownsec.com
 ||krspace.cn
 ||ku6.com
@@ -253,8 +264,10 @@
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
+||lncld.net
 ||locvps.com
 ||lofter.com
+||lucifr.com
 ||luojuly.cn
 ||lwl12.com
 
@@ -264,6 +277,7 @@
 ||mcbbs.net
 ||mdui.org
 ||mediav.com
+||meiqia.com
 ||meituan.com
 ||meizu.com
 ||mengniang.org
@@ -310,6 +324,7 @@
 ||playubuntu.cn
 ||pptv.com
 ||psnine.com
+||pythonclub.org
 
 ! Q
 ||qbox.me
@@ -325,6 +340,7 @@
 ||qlogo.cn
 ||qnssl.com
 ||qq.com
+||qunar.com
 
 ! R
 ||renren.com
@@ -346,6 +362,7 @@
 ||sina.cn
 ||sina.com
 ||sina.com.cn
+||sinaapp.com
 ||sinaimg.cn
 ||sinajs.cn
 ||since1989.org
@@ -380,10 +397,12 @@
 ||tingyun.com
 ||tmall.com
 ||tool.lu
+||totolink.cn
 ||toutiao.com
 ||toutiao.io
 ||tower.im
 ||tplogin.cn
+||truevue.org
 ||tudou.com
 ||tuicool.com
 ||tuniu.com
@@ -431,6 +450,7 @@
 ||xitu.io
 ||xldns.net
 ||xs8.cn
+||xuanfengge.com
 ||xuetangx.com
 ||xujc.com
 ||xunlei.com
@@ -452,6 +472,7 @@
 
 ! Z
 ||zcool.com.cn
+||zhangyao.name
 ||zhaopin.com
 ||zhihu.com
 ||zhimg.com
