@@ -26,6 +26,8 @@
 ||17k.com
 ||189.cn
 ||1tpic.com
+||1year.cc
+||1years.cc
 
 ! 2
 ||2345.com
@@ -33,6 +35,7 @@
 
 ! 3
 ||3366.com
+||33ss.tech
 ||360.cn
 ||360.com
 ||360buy.com
@@ -148,6 +151,8 @@
 ||daocloud.io
 ||datagrand.com
 ||ddos.cc
+||deepin.com
+||deepin.org
 ||dianping.com
 ||dict.cn
 ||diybeta.com
@@ -181,6 +186,7 @@
 ||gamersky.com
 ||ganji.com
 ||gank.io
+||geetest.com
 ||getui.com
 ||gfan.com
 ||gmw.cn
@@ -196,7 +202,10 @@
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
+||hejie.me
 ||heweather.com
+||hexun.com
+||hexunimg.com
 ||hitokoto.cn
 ||hostker.com
 ||huaban.com
@@ -219,14 +228,17 @@
 ||im9.com
 ||imjad.cn
 ||imooc.com
+||installbi.me
 ||ip-api.com
 ||ipip.net
 ||iplaysoft.com
 ||iqiyi.com
 ||it168.com
+||itc.cn
 ||ithome.com
 
 ! J
+||j.cn
 ||jandan.net
 ||javaeye.com
 ||jb51.net
@@ -267,11 +279,14 @@
 ||lncld.net
 ||locvps.com
 ||lofter.com
+||lolinet.com
 ||lucifr.com
 ||luojuly.cn
 ||lwl12.com
+||lyjsws.com
 
 ! M
+||mail4geek.com
 ||masadora.net
 ||maxfox.me
 ||mcbbs.net
@@ -291,6 +306,7 @@
 ||moe.im
 ||moe123.net
 ||moetransit.com
+||mokeedev.com
 ||mukewang.com
 ||mumayi.com
 
@@ -299,6 +315,7 @@
 ||neofelhz.ga
 ||neofelhz.space
 ||neofelhz.win
+||netease.com
 ||netease.im
 ||netseer.com
 ||ngacn.cc
@@ -348,6 +365,7 @@
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
+||rom.mk
 ||rongcloud.cn
 ||ruanyifeng.com
 ||ruby-china.org
@@ -356,6 +374,7 @@
 ! S
 ||sandai.net
 ||sdo.com
+||seele.tech
 ||segmentfault.com
 ||sensorsdata.cn
 ||shimo.im
@@ -474,6 +493,7 @@
 ! Z
 ||zcool.com.cn
 ||zhangyao.name
+||zhaojin97.cn
 ||zhaopin.com
 ||zhihu.com
 ||zhimg.com
