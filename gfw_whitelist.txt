@@ -191,7 +191,6 @@
 ||gfan.com
 ||gmw.cn
 ||golaravel.com
-||gstatic.com
 ||guokr.com
 
 ! H
