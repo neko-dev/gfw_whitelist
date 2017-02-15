@@ -405,6 +405,7 @@
 ||steampowered.com
 ||steamstatic.com
 ||suning.com
+||swapteam.cn
 ||sznews.com
 
 ! T
