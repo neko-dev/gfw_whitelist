@@ -375,6 +375,7 @@
 
 ! S
 ||sandai.net
+||sb.sb
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
@@ -407,6 +408,7 @@
 ||sznews.com
 
 ! T
+||t.tt
 ||tanx.com
 ||taobao.com
 ||taobaocdn.com
@@ -425,6 +427,7 @@
 ||tower.im
 ||tplogin.cn
 ||truevue.org
+||ttt.tt
 ||tudou.com
 ||tuicool.com
 ||tuniu.com
