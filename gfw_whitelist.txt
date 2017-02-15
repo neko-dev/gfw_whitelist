@@ -5,7 +5,9 @@
 /183\.60\.187\.110/
 
 ! Subdomain
+|https://az764295.vo.msecnd.net
 |https://ipv6.google.com
+|https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
 ! 0
