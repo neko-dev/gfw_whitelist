@@ -416,6 +416,7 @@
 ||tbcdn.cn
 ||tencent.com
 ||tenpay.com
+||tenxcloud.com
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
