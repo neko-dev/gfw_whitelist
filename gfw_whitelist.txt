@@ -173,6 +173,7 @@
 
 ! E
 ||eastmoney.com
+||eeboard.com
 ||enkj.com
 ||eqoe.cn
 ||eudic.net
@@ -256,6 +257,7 @@
 ! K
 ||kafan.cn
 ||kancloud.cn
+||kankan.com
 ||kf5.com
 ||kmf.com
 ||knownsec.com
@@ -275,6 +277,7 @@
 ||lenovomobile.com
 ||letitfly.me
 ||letv.com
+||letvimg.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
@@ -368,6 +371,7 @@
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
+||rom.cn
 ||rom.mk
 ||rongcloud.cn
 ||ruanyifeng.com
@@ -447,6 +451,7 @@
 
 ! V
 ||v2ex.com
+||vamaker.com
 ||vhall.com
 ||viosey.com
 ||vip.com
