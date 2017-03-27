@@ -412,6 +412,7 @@
 ||sinajs.cn
 ||since1989.org
 ||sm.ms
+||smartgslb.com
 ||smartisan.com
 ||smzdm.com
 ||so.com
