@@ -334,6 +334,8 @@
 ||netease.com
 ||netease.im
 ||netseer.com
+||nfz.life
+||nfz.moe
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
@@ -353,6 +355,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||pdcicons.ml
 ||pengyou.com
 ||phonegap100.com
 ||phpcomposer.com
