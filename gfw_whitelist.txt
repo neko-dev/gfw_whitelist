@@ -84,6 +84,7 @@
 ||aixifan.com
 ||aizhan.com
 ||akamaihd.net
+||akarin.me
 ||akarin.top
 ||alibaba.com
 ||alicdn.com
@@ -255,6 +256,7 @@
 ||javaeye.com
 ||jb51.net
 ||jd.com
+||jhdec.com
 ||jianguoyun.com
 ||jianshu.com
 ||jianshu.io
