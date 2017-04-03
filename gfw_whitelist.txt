@@ -221,6 +221,9 @@
 ||hostker.com
 ||huaban.com
 ||huanqiu.com
+||huiji.wiki
+||huijistatic.com
+||huijiwiki.com
 ||hujiang.com
 ||hupu.com
 ||huxiu.com
@@ -382,6 +385,7 @@
 ||qlogo.cn
 ||qnssl.com
 ||qq.com
+||qqmail.com
 ||qqzzz.net
 ||qunar.com
 
@@ -414,6 +418,7 @@
 ||sinajs.cn
 ||since1989.org
 ||sm.ms
+||smart2pay.com
 ||smartgslb.com
 ||smartisan.com
 ||smzdm.com
