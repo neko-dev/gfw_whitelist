@@ -244,6 +244,7 @@
 ||im9.com
 ||imjad.cn
 ||imooc.com
+||imququ.com
 ||installbi.me
 ||ip-api.com
 ||ipip.net
