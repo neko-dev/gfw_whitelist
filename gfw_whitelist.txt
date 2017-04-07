@@ -4,6 +4,7 @@
 /.+gov.cn/
 /183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
+/210\.34\.4\.28/
 
 ! Subdomain
 |https://az764295.vo.msecnd.net
@@ -174,6 +175,7 @@
 ||douban.com
 ||doubleclick.net
 ||douyu.com
+||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
 ||duoshuo.com
@@ -218,6 +220,7 @@
 ||hexun.com
 ||hexunimg.com
 ||hitokoto.cn
+||hiwifi.com
 ||hostker.com
 ||huaban.com
 ||huanqiu.com
@@ -266,6 +269,7 @@
 ||jianshu.io
 ||jiathis.com
 ||jikexueyuan.com
+||jinshuju.net
 ||jisuanke.com
 ||joyyang.com
 
@@ -303,6 +307,7 @@
 ||lolinet.com
 ||lucifr.com
 ||luojuly.cn
+||luoo.net
 ||lwl12.com
 ||lyjsws.com
 
@@ -385,6 +390,7 @@
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
+||qpic.cn
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
@@ -451,6 +457,7 @@
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
+||tigerlust.com
 ||tingyun.com
 ||tmall.com
 ||tool.lu
@@ -516,6 +523,7 @@
 ||xujc.com
 ||xunlei.com
 ||xunyou.com
+||xx1t.com
 ||xxsy.net
 ||xycdn.com
 
@@ -534,6 +542,7 @@
 
 ! Z
 ||zcool.com.cn
+||zhan.com
 ||zhangyao.name
 ||zhaojin97.cn
 ||zhaopin.com
