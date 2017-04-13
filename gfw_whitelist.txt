@@ -167,6 +167,7 @@
 ||deepin.org
 ||dianping.com
 ||dict.cn
+||dingtalk.com
 ||diybeta.com
 ||diyvm.com
 ||dm5.com
