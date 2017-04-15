@@ -26,6 +26,7 @@
 ||163.com
 ||1688.com
 ||17173.com
+||178.com
 ||17ce.com
 ||17k.com
 ||189.cn
@@ -113,8 +114,10 @@
 ||battlenet.com.cn
 ||bdimg.com
 ||bdstatic.com
+||behe.com
 ||beianbeian.com
 ||bilibili.com
+||biligame.net
 ||bing.com
 ||blackyau.cc
 ||blogjava.net
@@ -550,6 +553,7 @@
 ||zhaopin.com
 ||zhihu.com
 ||zhimg.com
+||zhiziyun.com
 ||zhujike.com
 ||zimuzu.tv
 ||znyj365.com
