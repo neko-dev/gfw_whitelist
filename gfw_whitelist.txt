@@ -120,6 +120,7 @@
 ||biligame.net
 ||bing.com
 ||blackyau.cc
+||blizzard.cn
 ||blogjava.net
 ||boc.cn
 ||bootcdn.cn
@@ -209,6 +210,7 @@
 ||gfan.com
 ||gmw.cn
 ||golaravel.com
+||gtimg.cn
 ||guokr.com
 
 ! H
@@ -260,6 +262,7 @@
 ||iqiyi.com
 ||it168.com
 ||itc.cn
+||itellyou.cn
 ||ithome.com
 
 ! J
@@ -420,6 +423,7 @@
 ||seele.tech
 ||segmentfault.com
 ||sensorsdata.cn
+||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
 ||sina.cn
@@ -479,6 +483,7 @@
 
 ! U
 ||u9u9.com
+||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
 ||upaiyun.com
@@ -503,6 +508,7 @@
 ||w3school.com.cn
 ||waerfa.com
 ||wandoujia.com
+||wanmei.com
 ||weibo.com
 ||weidunewtab.com
 ||weiosx.com
@@ -511,6 +517,7 @@
 ||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
+||woyoo.com
 
 ! X
 ||xcar.com.cn
@@ -536,6 +543,7 @@
 ||yaohuo.me
 ||yesky.com
 ||yiche.com
+||yinxiang.com
 ||ykimg.com
 ||ylmf.net
 ||youdao.com
