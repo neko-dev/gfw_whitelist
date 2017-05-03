@@ -279,6 +279,7 @@
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
+||jomodns.com
 ||joyyang.com
 
 ! K
@@ -313,6 +314,7 @@
 ||locvps.com
 ||lofter.com
 ||lolinet.com
+||longzhu.com
 ||lucifr.com
 ||luojuly.cn
 ||luoo.net
@@ -380,6 +382,7 @@
 ||phpcomposer.com
 ||pingwest.com
 ||playubuntu.cn
+||plu.cn
 ||pptv.com
 ||psnine.com
 ||pythonclub.org
