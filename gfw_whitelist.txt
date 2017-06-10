@@ -142,6 +142,7 @@
 ||chinaunix.net
 ||chinaz.com
 ||chiphell.com
+||chsi.com.cn
 ||chuangzaoshi.com
 ||cloudinary.com
 ||cloudxns.net
@@ -160,7 +161,6 @@
 ||csdnimg.cn
 ||css.net
 ||ctrip.com
-||chsi.com.cn
 
 ! D
 ||d7vg.com
@@ -551,13 +551,13 @@
 ||yinxiang.com
 ||ykimg.com
 ||ylmf.net
+||ynzs.cn
 ||youdao.com
 ||youku.com
 ||youth.cn
 ||yunpian.com
 ||yunshipei.com
 ||yy.com
-||ynzs.cn
 
 ! Z
 ||zcool.com.cn
