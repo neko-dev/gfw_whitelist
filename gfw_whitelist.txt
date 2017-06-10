@@ -160,6 +160,7 @@
 ||csdnimg.cn
 ||css.net
 ||ctrip.com
+||chsi.com.cn
 
 ! D
 ||d7vg.com
@@ -556,6 +557,7 @@
 ||yunpian.com
 ||yunshipei.com
 ||yy.com
+||ynzs.cn
 
 ! Z
 ||zcool.com.cn
