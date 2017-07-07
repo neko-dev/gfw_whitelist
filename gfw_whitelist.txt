@@ -160,6 +160,7 @@
 ||csdn.net
 ||csdnimg.cn
 ||css.net
+||css.network
 ||ctrip.com
 
 ! D
@@ -305,7 +306,6 @@
 ||lenovo.com.cn
 ||lenovomobile.cn
 ||lenovomobile.com
-||letitfly.me
 ||letv.com
 ||letvimg.com
 ||linuxidc.com
@@ -350,14 +350,9 @@
 
 ! N
 ||nekonazo.com
-||neofelhz.ga
-||neofelhz.space
-||neofelhz.win
 ||netease.com
 ||netease.im
 ||netseer.com
-||nfz.life
-||nfz.moe
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
