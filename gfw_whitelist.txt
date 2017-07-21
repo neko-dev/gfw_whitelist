@@ -157,6 +157,7 @@
 ||coding.me
 ||coding.net
 ||coolapk.com
+||coolpad.com
 ||csdn.net
 ||csdnimg.cn
 ||css.net
@@ -288,6 +289,7 @@
 ||kafan.cn
 ||kancloud.cn
 ||kankan.com
+||kekenet.com
 ||kf5.com
 ||kmf.com
 ||knownsec.com
@@ -347,6 +349,7 @@
 ||mokeedev.com
 ||mukewang.com
 ||mumayi.com
+||mydrivers.com
 
 ! N
 ||nekonazo.com
@@ -358,6 +361,7 @@
 ||nvidia.cn
 
 ! O
+||obsapp.com
 ||oekaki.so
 ||omico.me
 ||oneplus.cn
@@ -373,6 +377,7 @@
 ||paipai.com
 ||panda.tv
 ||pdcicons.ml
+||pdim.gs
 ||pengyou.com
 ||phonegap100.com
 ||phpcomposer.com
@@ -446,6 +451,7 @@
 ||soufun.com
 ||speedtest.net
 ||sspai.com
+||stargame.com
 ||steamcn.com
 ||steamcommunity.com
 ||steampowered.com
@@ -461,8 +467,10 @@
 ||taobaocdn.com
 ||tbcdn.cn
 ||tencent.com
+||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
+||tgbus.com
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
@@ -471,6 +479,7 @@
 ||tmall.com
 ||tool.lu
 ||totolink.cn
+||toushibao.com
 ||toutiao.com
 ||toutiao.io
 ||tower.im
