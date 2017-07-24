@@ -413,6 +413,7 @@
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
+||rlcdn.com
 ||rom.cn
 ||rom.mk
 ||rongcloud.cn
