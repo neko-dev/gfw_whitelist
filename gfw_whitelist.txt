@@ -131,6 +131,8 @@
 ||bybbs.org
 
 ! C
+||cdn.jsdelivr.net
+||cdnbee.com
 ||cdndm.com
 ||cdndm5.com
 ||cdnst.net
@@ -192,6 +194,7 @@
 ! E
 ||eastmoney.com
 ||eeboard.com
+||elemecdn.com
 ||enkj.com
 ||eqoe.cn
 ||eudic.net
