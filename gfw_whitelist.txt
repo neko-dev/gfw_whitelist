@@ -190,6 +190,7 @@
 ||duguletian.com
 ||duoshuo.com
 ||duowan.com
+||dygod.net
 
 ! E
 ||eastmoney.com
@@ -245,6 +246,7 @@
 ||hxjyb.com
 
 ! I
+||i21st.cn
 ||i-meto.com
 ||iapps.im
 ||iaweg.com
@@ -313,6 +315,7 @@
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
+||liaoxuefeng.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
