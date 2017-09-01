@@ -130,6 +130,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||bumimi.com
 ||buu.edu.cn
 ||bybbs.org
 
@@ -149,6 +150,7 @@
 ||chiphell.com
 ||chsi.com.cn
 ||chuangzaoshi.com
+||cli.im
 ||cloudinary.com
 ||cloudxns.net
 ||cnbeta.com
@@ -179,6 +181,7 @@
 ||deepin.org
 ||dianping.com
 ||dict.cn
+||dilidili.wang
 ||dingtalk.com
 ||diybeta.com
 ||diyvm.com
@@ -188,6 +191,7 @@
 ||douban.com
 ||doubleclick.net
 ||douyu.com
+||douyucdn.cn
 ||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
@@ -206,6 +210,7 @@
 ! F
 ||fang.com
 ||feng.com
+||fengkongcloud.com
 ||fengniao.com
 ||fir.im
 ||flow.ci
@@ -393,6 +398,7 @@
 ||pengyou.com
 ||phonegap100.com
 ||phpcomposer.com
+||piimg.com
 ||pingwest.com
 ||playubuntu.cn
 ||plu.cn
