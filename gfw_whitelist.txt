@@ -31,6 +31,7 @@
 ||17ce.com
 ||17k.com
 ||189.cn
+||1qmsg.com
 ||1tpic.com
 ||1year.cc
 ||1years.cc
@@ -411,7 +412,9 @@
 ||qcwgg.com
 ||qdan.me
 ||qeeyou.com
+||qhimg.com
 ||qhmsg.com
+||qhres.com
 ||qidian.com
 ||qihucdn.com
 ||qiniu.com
@@ -565,6 +568,7 @@
 
 ! Y
 ||yaohuo.me
+||yecdn.com
 ||yesky.com
 ||yiche.com
 ||yinxiang.com
