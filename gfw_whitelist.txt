@@ -31,6 +31,7 @@
 ||17ce.com
 ||17k.com
 ||189.cn
+||1qimg.com
 ||1qmsg.com
 ||1tpic.com
 ||1year.cc
@@ -364,6 +365,7 @@
 ||moe123.net
 ||moetransit.com
 ||mokeedev.com
+||momentcdn.com
 ||mtyun.com
 ||mukewang.com
 ||mumayi.com
