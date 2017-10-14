@@ -190,6 +190,7 @@
 ||diybeta.com
 ||diyvm.com
 ||dm5.com
+||dmzj.com
 ||dnspod.cn
 ||docin.com
 ||douban.com
@@ -280,6 +281,7 @@
 ||ip-api.com
 ||ipip.net
 ||iplaysoft.com
+||iqing.in
 ||iqiyi.com
 ||it168.com
 ||itc.cn
@@ -571,6 +573,7 @@
 ||xycdn.com
 
 ! Y
+||yamibo.com
 ||yaohuo.me
 ||yecdn.com
 ||yesky.com
