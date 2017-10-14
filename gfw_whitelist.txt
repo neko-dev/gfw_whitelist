@@ -3,6 +3,7 @@
 /.+edu.cn/
 /.+gov.cn/
 /113\.55\.\d+\.\d+/
+/120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
 /192\.168\.\d+\.\d+/
 /210\.34\.4\.28/
@@ -293,6 +294,7 @@
 ||jandan.net
 ||javaeye.com
 ||jb51.net
+||jcodecraeer.com
 ||jd.com
 ||jhdec.com
 ||jianguoyun.com
