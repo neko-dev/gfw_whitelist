@@ -227,6 +227,7 @@
 ||ganji.com
 ||gank.io
 ||geetest.com
+||getfedora.org
 ||getui.com
 ||gfan.com
 ||gitee.com
@@ -476,6 +477,7 @@
 ||sogou.com
 ||sohu.com
 ||soku.com
+||songshuhui.net
 ||soso.com
 ||soufun.com
 ||speedtest.net
@@ -497,6 +499,7 @@
 ||tenpay.com
 ||tenxcloud.com
 ||tgbus.com
+||thepaper.cn
 ||thinkphp.cn
 ||tianya.cn
 ||tietuku.com
@@ -514,6 +517,7 @@
 ||ttt.tt
 ||tudou.com
 ||tuicool.com
+||tuna.moe
 ||tuniu.com
 
 ! U
