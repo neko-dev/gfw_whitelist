@@ -83,6 +83,7 @@
 ||acfun.tv
 ||acg.tv
 ||acgvideo.com
+||acs.org
 ||aday01.com
 ||adf.ly
 ||aicheren.com
@@ -105,6 +106,7 @@
 ||anzhi.com
 ||appgame.com
 ||appinn.com
+||aps.org
 ||areyoucereal.com
 ||arubanetworks.com
 ||atomicstryker.net
@@ -160,6 +162,7 @@
 ||cloudxns.net
 ||cnbeta.com
 ||cnblogs.com
+||cnki.net
 ||cnr.cn
 ||cntv.cn
 ||cnzz.com
@@ -186,6 +189,7 @@
 ||deepin.org
 ||dianping.com
 ||dict.cn
+||dilidili.com
 ||dilidili.wang
 ||dingtalk.com
 ||diybeta.com
@@ -268,6 +272,7 @@
 ||iaweg.com
 ||ibruce.info
 ||iciba.com
+||ieee.org
 ||ifanr.com
 ||ifanr.in
 ||ifdream.net
@@ -379,10 +384,12 @@
 ||mydrivers.com
 
 ! N
+||nature.com
 ||nekonazo.com
 ||netease.com
 ||netease.im
 ||netseer.com
+||nga.cn
 ||ngacn.cc
 ||nuomi.com
 ||nvidia.cn
@@ -446,6 +453,7 @@
 ||rom.cn
 ||rom.mk
 ||rongcloud.cn
+||rsc.org
 ||ruanyifeng.com
 ||ruby-china.org
 ||runoob.com
@@ -454,6 +462,8 @@
 ||sandai.net
 ||sarm.net
 ||sb.sb
+||sciencedirect.com
+||sciencemag.org
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
@@ -548,6 +558,7 @@
 ||waerfa.com
 ||wandoujia.com
 ||wanmei.com
+||webofknowledge.com
 ||weibo.com
 ||weidunewtab.com
 ||weiosx.com
