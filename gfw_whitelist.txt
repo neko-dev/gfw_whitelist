@@ -255,6 +255,7 @@
 ||hiwifi.com
 ||hostker.com
 ||huaban.com
+||huanmusic.com
 ||huanqiu.com
 ||huiji.wiki
 ||huijistatic.com
@@ -292,6 +293,7 @@
 ||it168.com
 ||itc.cn
 ||itellyou.cn
+||iteye.com
 ||ithome.com
 
 ! J
@@ -609,6 +611,7 @@
 ||zcool.com.cn
 ||zhan.com
 ||zhangyao.name
+||zhanqi.tv
 ||zhaojin97.cn
 ||zhaopin.com
 ||zhihu.com
