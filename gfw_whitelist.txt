@@ -102,6 +102,7 @@
 ||amap.com
 ||amazon.cn
 ||anjuke.com
+||anquan.org
 ||anzhi.com
 ||appgame.com
 ||appinn.com
@@ -550,6 +551,8 @@
 ||viosey.com
 ||vip.com
 ||vmall.com
+||vpgame.com
+||vpgcdn.com
 ||vpsmm.com
 ||vss.im
 ||vuejs.org.cn
