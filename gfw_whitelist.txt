@@ -142,6 +142,7 @@
 
 ! C
 ||cachemoment.com
+||cas.cn
 ||cdn.jsdelivr.net
 ||cdnbee.com
 ||cdndm.com
@@ -207,6 +208,7 @@
 ||duguletian.com
 ||duoshuo.com
 ||duowan.com
+||dwstatic.com
 ||dygod.net
 
 ! E
@@ -238,6 +240,7 @@
 ||gmw.cn
 ||golaravel.com
 ||gtimg.cn
+||guancha.cn
 ||guokr.com
 
 ! H
@@ -252,12 +255,14 @@
 ||heweather.com
 ||hexun.com
 ||hexunimg.com
+||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
 ||hostker.com
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
+||huawei.com
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -279,6 +284,7 @@
 ||ifdream.net
 ||ifeng.com
 ||ifengimg.com
+||iguxuan.com
 ||iknoworld.net
 ||im9.com
 ||imiku.me
@@ -357,6 +363,7 @@
 
 ! M
 ||mail4geek.com
+||maoyan.com
 ||masadora.net
 ||materializecss.cn
 ||maxfox.me
@@ -365,6 +372,7 @@
 ||mediav.com
 ||meiqia.com
 ||meituan.com
+||meituan.net
 ||meizu.com
 ||mengniang.org
 ||mi.com
@@ -391,6 +399,7 @@
 ||netease.com
 ||netease.im
 ||netseer.com
+||newsmth.net
 ||nga.cn
 ||ngacn.cc
 ||nuomi.com
@@ -466,6 +475,7 @@
 ||sb.sb
 ||sciencedirect.com
 ||sciencemag.org
+||sciencenet.cn
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
