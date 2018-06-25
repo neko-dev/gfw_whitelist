@@ -104,6 +104,7 @@
 ||alipayobjects.com
 ||alisports.com
 ||aliyun.com
+||aliyuncs.com
 ||amap.com
 ||amazon.cn
 ||anjuke.com
@@ -136,6 +137,7 @@
 ||bing.com
 ||blackyau.cc
 ||blizzard.cn
+||blizzardgames.cn
 ||blogjava.net
 ||boc.cn
 ||bootcdn.cn
@@ -229,6 +231,7 @@
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
+||etao.com
 ||eudic.net
 
 ! F
@@ -275,14 +278,15 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
-||huomao.com
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
 ||hujiang.com
+||huomao.com
 ||hupu.com
 ||huxiu.com
 ||hxjyb.com
+||hy233.tv
 
 ! I
 ||i-meto.com
@@ -323,6 +327,7 @@
 ||jb51.net
 ||jcodecraeer.com
 ||jd.com
+||jfrft.com
 ||jhdec.com
 ||jianguoyun.com
 ||jianshu.com
@@ -337,6 +342,7 @@
 
 ! K
 ||kafan.cn
+||kan300.com
 ||kancloud.cn
 ||kankan.com
 ||kekenet.com
@@ -344,6 +350,7 @@
 ||kmf.com
 ||knownsec.com
 ||krspace.cn
+||ksyun.com
 ||ku6.com
 ||kuaizhan.com
 
@@ -433,6 +440,7 @@
 ||oschina.io
 ||oschina.net
 ||ourdvsss.com
+||overwatchleague.cn
 
 ! P
 ||paipai.com
@@ -584,6 +592,7 @@
 ||v2ex.com
 ||vamaker.com
 ||vhall.com
+||videojj.com
 ||viosey.com
 ||vip.com
 ||vmall.com
