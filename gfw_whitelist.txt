@@ -1,8 +1,10 @@
 ! Regex
 /.+\.com\.cn/
 /.+ac.cn/
+/.+acs.cn/
 /.+edu.cn/
 /.+gov.cn/
+/.+net.cn/
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
@@ -49,6 +51,7 @@
 ||360.cn
 ||360.com
 ||360buy.com
+||360buyimg.com
 ||360doc.com
 ||36kr.com
 ||3dmgame.com
@@ -99,6 +102,7 @@
 ||alimama.com
 ||alipay.com
 ||alipayobjects.com
+||alisports.com
 ||aliyun.com
 ||amap.com
 ||amazon.cn
@@ -119,6 +123,7 @@
 ||baiducontent.com
 ||baidupcs.com
 ||baidustatic.com
+||bankcomm.com
 ||baozoumanhua.com
 ||battlenet.com.cn
 ||bdimg.com
@@ -144,6 +149,7 @@
 ! C
 ||cachemoment.com
 ||cas.cn
+||cctv.com
 ||cdn.jsdelivr.net
 ||cdnbee.com
 ||cdndm.com
@@ -151,6 +157,7 @@
 ||cdnst.net
 ||cdog.me
 ||ce.cn
+||ceair.com
 ||cee.network
 ||china.com
 ||chinassl.net
@@ -175,10 +182,12 @@
 ||coding.net
 ||coolapk.com
 ||coolpad.com
+||csair.com
 ||csdn.net
 ||csdnimg.cn
 ||css.net
 ||css.network
+||ct10000.com
 ||ctrip.com
 
 ! D
@@ -217,6 +226,7 @@
 ||eastmoney.com
 ||eeboard.com
 ||elemecdn.com
+||elsevier.com
 ||enkj.com
 ||eqoe.cn
 ||eudic.net
@@ -265,6 +275,7 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huomao.com
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -317,6 +328,7 @@
 ||jianshu.com
 ||jianshu.io
 ||jiathis.com
+||jiemian.com
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
@@ -390,7 +402,9 @@
 ||moetransit.com
 ||mokeedev.com
 ||momentcdn.com
+||msftconnecttest.com
 ||mtyun.com
+||muchong.com
 ||mukewang.com
 ||mumayi.com
 ||mydrivers.com
@@ -423,6 +437,7 @@
 ! P
 ||paipai.com
 ||panda.tv
+||pcbeta.com
 ||pdcicons.ml
 ||pdim.gs
 ||pengyou.com
@@ -439,6 +454,7 @@
 ||qbox.me
 ||qcloud.com
 ||qcwgg.com
+||qdaily.com
 ||qdan.me
 ||qeeyou.com
 ||qhimg.com
@@ -447,6 +463,7 @@
 ||qidian.com
 ||qihucdn.com
 ||qingmang.me
+||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
 ||qiyukf.com
@@ -460,6 +477,7 @@
 
 ! R
 ||renren.com
+||researchgate.net
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
@@ -483,9 +501,11 @@
 ||seele.tech
 ||segmentfault.com
 ||sensorsdata.cn
+||sf-express.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
+||sigmaaldrich.com
 ||sina.cn
 ||sina.com
 ||sina.com.cn
@@ -506,6 +526,8 @@
 ||soso.com
 ||soufun.com
 ||speedtest.net
+||springer.com
+||springerlink.com
 ||sspai.com
 ||stargame.com
 ||steamcn.com
@@ -526,6 +548,7 @@
 ||tgbus.com
 ||thepaper.cn
 ||thinkphp.cn
+||thomsonreuters.com
 ||tianya.cn
 ||tietuku.com
 ||tigerlust.com
@@ -581,6 +604,7 @@
 ||weiosx.com
 ||weiyun.com
 ||wht.im
+||wiley.com
 ||wisenjoy.com
 ||wiz.cn
 ||wodemo.com
@@ -625,6 +649,7 @@
 ||yy.com
 
 ! Z
+||zaih.com
 ||zcool.com.cn
 ||zhan.com
 ||zhangyao.name
