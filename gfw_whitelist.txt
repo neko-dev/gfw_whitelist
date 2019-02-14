@@ -368,6 +368,7 @@
 ||letv.com
 ||letvimg.com
 ||liaoxuefeng.com
+||liepin.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
@@ -414,6 +415,7 @@
 ||muchong.com
 ||mukewang.com
 ||mumayi.com
+||mxhichina.com
 ||mydrivers.com
 
 ! N
