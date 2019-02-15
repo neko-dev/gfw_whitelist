@@ -511,6 +511,7 @@
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
+||sekorm.com
 ||sensorsdata.cn
 ||sf-express.com
 ||shikezhi.com
