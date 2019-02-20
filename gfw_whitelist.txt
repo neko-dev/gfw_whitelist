@@ -54,6 +54,7 @@
 ||360buyimg.com
 ||360doc.com
 ||36kr.com
+||39.net
 ||3dmgame.com
 
 ! 4
@@ -436,6 +437,7 @@
 ||omico.me
 ||oneplus.cn
 ||oneplusbbs.com
+||onlinedown.net
 ||open-open.com
 ||ops.moe
 ||oray.com
@@ -510,6 +512,7 @@
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
+||sekorm.com
 ||sensorsdata.cn
 ||sf-express.com
 ||shikezhi.com
