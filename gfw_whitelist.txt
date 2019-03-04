@@ -229,6 +229,7 @@
 ||eastmoney.com
 ||eeboard.com
 ||elemecdn.com
+||elong.com
 ||elsevier.com
 ||enkj.com
 ||eqoe.cn
@@ -241,6 +242,7 @@
 ||fengkongcloud.com
 ||fengniao.com
 ||fir.im
+||fliggy.com
 ||flow.ci
 ||freebuf.com
 
@@ -279,6 +281,7 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huaweicloud.com
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
