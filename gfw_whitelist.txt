@@ -2,6 +2,7 @@
 /.+\.com\.cn/
 /.+ac.cn/
 /.+acs.cn/
+/.+chaoxing.com/
 /.+edu.cn/
 /.+gov.cn/
 /.+net.cn/
@@ -306,6 +307,7 @@
 ||ifeng.com
 ||ifengimg.com
 ||iguxuan.com
+||ijinshan.com
 ||iknoworld.net
 ||im9.com
 ||imiku.me
@@ -351,6 +353,7 @@
 ||kankan.com
 ||kekenet.com
 ||kf5.com
+||kingsoft.com
 ||kmf.com
 ||knownsec.com
 ||krspace.cn
