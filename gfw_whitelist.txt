@@ -125,6 +125,7 @@
 ! B
 ||baidu.com
 ||baiducontent.com
+||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
 ||bankcomm.com
@@ -366,6 +367,7 @@
 ||lackar.com
 ||lany.me
 ||lanyus.com
+||lanzous.com
 ||laravel-china.org
 ||lbesec.com
 ||le.com
@@ -383,9 +385,11 @@
 ||lncld.net
 ||locvps.com
 ||lofter.com
+||loj.ac
 ||lolinet.com
 ||longzhu.com
 ||lucifr.com
+||luogu.org
 ||luojuly.cn
 ||luoo.net
 ||lwl12.com
@@ -393,6 +397,7 @@
 
 ! M
 ||mail4geek.com
+||manmanbuy.com
 ||maoyan.com
 ||masadora.net
 ||materializecss.cn
@@ -415,6 +420,7 @@
 ||mmtrix.com
 ||moe.im
 ||moe123.net
+||moegirl.org
 ||moetransit.com
 ||mokeedev.com
 ||momentcdn.com
@@ -551,6 +557,8 @@
 ||sspai.com
 ||stargame.com
 ||steamcn.com
+||steamdb.info
+||steampowered.com
 ||suning.com
 ||swapteam.cn
 ||sznews.com
@@ -560,6 +568,9 @@
 ||tanx.com
 ||taobao.com
 ||taobaocdn.com
+||tapdb.net
+||tapimg.com
+||taptap.com
 ||tbcdn.cn
 ||tencent.com
 ||tencentmind.com
@@ -608,6 +619,7 @@
 ||viosey.com
 ||vip.com
 ||vmall.com
+||voidcn.com
 ||vpgame.com
 ||vpgcdn.com
 ||vpsmm.com
