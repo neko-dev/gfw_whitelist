@@ -94,6 +94,7 @@
 ||adf.ly
 ||aicheren.com
 ||aipai.com
+||airbnb.cn
 ||aiwebcom.com
 ||aixifan.com
 ||aizhan.com
@@ -279,6 +280,7 @@
 ||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
+||hommk.com
 ||hostker.com
 ||huaban.com
 ||huanmusic.com
@@ -322,6 +324,7 @@
 ||iplaysoft.com
 ||iqing.in
 ||iqiyi.com
+||iqiyipic.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -429,6 +432,8 @@
 ||muchong.com
 ||mukewang.com
 ||mumayi.com
+||muscache.cn
+||muscache.com
 ||mxhichina.com
 ||mydrivers.com
 
@@ -491,6 +496,7 @@
 ||qingting.fm
 ||qiniu.com
 ||qiniucdn.com
+||qiyi.com
 ||qiyukf.com
 ||qlogo.cn
 ||qnssl.com
@@ -601,6 +607,7 @@
 
 ! U
 ||u9u9.com
+||ubisoft.com.cn
 ||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
