@@ -7,6 +7,7 @@ gfw_whitelist URL: [https://raw.githubusercontent.com/neko-dev/gfw_whitelist/mas
 ## Usagage of gfw_whitelist
 
 ### SwitchyOmega
+
 Install [SwitchyOmega](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) Chrome extension.
 
 Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoProxy format) and fill the `gfw_whitelist URL`. `Rule list rules` use the `Direct` profile.
@@ -21,7 +22,7 @@ Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoPr
 
 [AutoProxy Rules](https://github.com/neko-dev/gfw_whitelist/blob/master/AutoProxy_Rules.md)
 
-```
+```txt
 This tools can help you to edit AutoProxy file.
 Use 'add' to add a domain.
 Use 'remove' to remove a domain.
@@ -32,14 +33,6 @@ Use 'help' to show this help message.
 You can use 'help [command]' to show help message for that command.
 ```
 
-## Usagage of commit.sh
+## Usagage of commit.jar
 
-This shell script can help to commit the `gfw_whitelist` in a formal format.
-
-### macOS
-
-```
-sudo chmod +x commit.sh
-
-./commit.sh
-```
+`java -jar commit.jar` to to commit the `gfw_whitelist` in a formal format.
