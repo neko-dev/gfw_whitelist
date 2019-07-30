@@ -16,7 +16,7 @@ Create a Switch Profile, `Default` use the proxy profile, add a rule list(AutoPr
 
 ![](https://ooo.0o0.ooo/2017/01/24/5886e0925da91.png)
 
-## Usagage of AutoProxy-Editor.jar
+## Usage of AutoProxy-Editor.jar
 
 `java -jar AutoProxy-Editor.jar` to add domains.
 
@@ -33,6 +33,8 @@ Use 'help' to show this help message.
 You can use 'help [command]' to show help message for that command.
 ```
 
-## Usagage of commit.jar
+## Usage of commit.jar
 
 `java -jar commit.jar` to to commit the `gfw_whitelist` in a formal format.
+
+### Source: [https://github.com/Omico/gfw_whitelist-CommitTool](https://github.com/Omico/gfw_whitelist-CommitTool)
