@@ -325,6 +325,7 @@
 ||iqing.in
 ||iqiyi.com
 ||iqiyipic.com
+||irs01.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -436,6 +437,7 @@
 ||muscache.com
 ||mxhichina.com
 ||mydrivers.com
+||myqcloud.com
 
 ! N
 ||nature.com
