@@ -319,6 +319,7 @@
 ||imjad.cn
 ||imooc.com
 ||imququ.com
+||indienova.com
 ||installbi.me
 ||ip-api.com
 ||ipip.net
@@ -519,6 +520,8 @@
 ||rom.cn
 ||rom.mk
 ||rongcloud.cn
+||rrfmn.com
+||rrimg.com
 ||rsc.org
 ||ruanyifeng.com
 ||ruby-china.org
@@ -663,6 +666,8 @@
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
+||xnimg.cn
+||xnpic.com
 ||xs8.cn
 ||xuanfengge.com
 ||xuetangx.com
