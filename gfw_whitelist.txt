@@ -218,6 +218,7 @@
 ||docin.com
 ||douban.com
 ||douban.fm
+||doubanio.com
 ||doubleclick.net
 ||douyu.com
 ||douyucdn.cn
